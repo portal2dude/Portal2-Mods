@@ -1,0 +1,1 @@
+How to download my mods. First open the mod that you want by it's text then you should see all of it's code. On the top you should see       Code   Blame          on the right you should see a download icon. Click the download icon then you got the mod. Enjoy!
